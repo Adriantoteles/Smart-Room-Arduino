@@ -1,0 +1,13 @@
+No,Component,Quantity,Description
+1,Arduino Uno,1,Microcontroller
+2,LDR,1,Light sensor (ADC)
+3,Resistor 10k,1,Voltage divider
+4,LCD 16x2 I2C,1,Display
+5,Servo Motor,1,Window control
+6,DC Motor,1,Curtain system
+7,L293D,1,Motor driver
+8,Push Button,3,User input
+9,LED,1,Lighting
+10,Resistor,1,LED resistor
+11,Breadboard,1,Prototyping
+12,Jumper Wires,Several,Connections
