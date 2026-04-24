@@ -1,4 +1,4 @@
-# Smart Room System (Arduino)
+<img width="768" height="299" alt="image" src="https://github.com/user-attachments/assets/50fbc69f-8709-4763-ae62-9493e5f30936" /># Smart Room System (Arduino)
 
 ## Description
 
@@ -58,7 +58,7 @@ The DC motor operates for a few seconds and then stops automatically using a tim
 **Source Code:** [Code.ino](./program.ino)
 **Circuit Schematic:** [3D Schematics](./rangkaian.png)
 **Simulation Video:** [Watch Here](https://youtu.be/272JC6ugsRw?si=4HL8MIg9y9PYzBdz)
-**Circuit Simulation:** [Try On Tinkercad](link-tinkercad-kamu)
+**Circuit Simulation:** [Try On Tinkercad](https://www.tinkercad.com/things/5UPLQXoFsb9-bodacious-migelo-wolt/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=EDCNDOV3CYUFLWeVnbxJnulcacv8pd5SkL9rZ91P2Rk)
 
 ---
 
