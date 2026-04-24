@@ -1,4 +1,3 @@
-<img width="768" height="299" alt="image" src="https://github.com/user-attachments/assets/50fbc69f-8709-4763-ae62-9493e5f30936" /># Smart Room System (Arduino)
 
 ## Description
 
