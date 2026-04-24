@@ -52,7 +52,6 @@ The DC motor operates for a few seconds and then stops automatically using a tim
 * Window Button → Open/Close window
 * Curtain Button → Move curtain (DC motor)
 
-```
 ---
 ## Project Documentation
 
