@@ -56,13 +56,14 @@ The DC motor operates for a few seconds and then stops automatically using a tim
 
 ---
 
-## Demo Video
+## Project Documentation
 
-https://youtu.be/272JC6ugsRw?si=4HL8MIg9y9PYzBdz
+- **Source Code:** [Code.ino](link-file-kamu)
+- **Circuit Schematic:** [3D Schematics](link-gambar-atau-tinkercad)
+- **Simulation Video:** [Watch Here]https://youtu.be/272JC6ugsRw?si=4HL8MIg9y9PYzBdz
+- **Circuit Simulation:** [Try On Tinkercad](link-tinkercad-kamu)
 
 ---
 
-## Author
-
-Name: Adrian Noval Saputra
+Developed by **Adrian Noval Saputra**
 
