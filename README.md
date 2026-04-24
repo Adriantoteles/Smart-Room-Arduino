@@ -56,10 +56,10 @@ The DC motor operates for a few seconds and then stops automatically using a tim
 ---
 ## Project Documentation
 
-- **Source Code:** [Code.ino](./program.ino)
-- **Circuit Schematic:** [3D Schematics](./rangkaian.png)
-- **Simulation Video:** [Watch Here](https://youtu.be/272JC6ugsRw?si=4HL8MIg9y9PYzBdz)
-- **Circuit Simulation:** [Try On Tinkercad](link-tinkercad-kamu)
+**Source Code:** [Code.ino](./program.ino)
+**Circuit Schematic:** [3D Schematics](./rangkaian.png)
+**Simulation Video:** [Watch Here](https://youtu.be/272JC6ugsRw?si=4HL8MIg9y9PYzBdz)
+**Circuit Simulation:** [Try On Tinkercad](link-tinkercad-kamu)
 
 ---
 
